@@ -3,7 +3,7 @@ Play Module Template
 
 This is a small template for creating new Play2 Modules.
 
-It is inspired from the [Article of Steve Chaloner]([http://www.objectify.be/wordpress/?p=363).
+It is inspired from the [Article of Steve Chaloner](http://www.objectify.be/wordpress/?p=363).
 
 Note:
 - There is no sample application, provide your own.
